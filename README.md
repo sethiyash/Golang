@@ -15,6 +15,7 @@ https://github.com/irahardianto/service-pattern-go
 
 - https://github.com/golang/go/wiki/CommonMistakes#using-goroutines-on-loop-iterator-variables
 - https://gist.github.com/posener/92a55c4cd441fc5e5e85f27bca008721 Be Careful with Table Driven Tests and t.Parallel()
+- https://stackoverflow.com/questions/36167200/how-safe-are-golang-maps-for-concurrent-read-write-operations Map concurrent read write 
 
 
 Implement - 
