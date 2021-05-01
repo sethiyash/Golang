@@ -23,6 +23,11 @@ https://github.com/irahardianto/service-pattern-go
 - https://stackoverflow.com/questions/36167200/how-safe-are-golang-maps-for-concurrent-read-write-operations Map concurrent read write 
 
 
+# Pointer Performance Golang - 
+- https://medium.com/@vCabbage/go-are-pointers-a-performance-optimization-a95840d3ef85
+- https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/
+
+
 # Create Microservices in Golang
 - https://ewanvalentine.io/microservices-in-golang-part-1/
 
