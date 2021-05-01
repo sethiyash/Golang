@@ -18,8 +18,6 @@ https://github.com/irahardianto/service-pattern-go
 - https://stackoverflow.com/questions/36167200/how-safe-are-golang-maps-for-concurrent-read-write-operations Map concurrent read write 
 
 
-Implement - 
-
 # Create Microservices in Golang - 
 - https://ewanvalentine.io/microservices-in-golang-part-1/
 
