@@ -3,25 +3,24 @@
 
 # Golang Articles  -
 
-=> https://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/
+- https://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/
 
-=> Simple clean Go REST API architecture with dependency injection and mocking example, following SOLID principles.
+- Simple clean Go REST API architecture with dependency injection and mocking example, following SOLID principles.
 https://github.com/irahardianto/service-pattern-go
 
-=> An implementation of JSON Schema, draft v4 v6 & v7 - Go languagehttps://github.com/xeipuuv/gojsonschema
+- An implementation of JSON Schema, draft v4 v6 & v7 - Go languagehttps://github.com/xeipuuv/gojsonschema
 
 
 # Common Mistakes in Golang => 
 
-=> https://github.com/golang/go/wiki/CommonMistakes#using-goroutines-on-loop-iterator-variables
-=> https://gist.github.com/posener/92a55c4cd441fc5e5e85f27bca008721 Be Careful with Table Driven Tests and t.Parallel()
-=> 
+- https://github.com/golang/go/wiki/CommonMistakes#using-goroutines-on-loop-iterator-variables
+- https://gist.github.com/posener/92a55c4cd441fc5e5e85f27bca008721 Be Careful with Table Driven Tests and t.Parallel()
 
 
 Implement - 
 
 # Create Microservices in Golang - 
-https://ewanvalentine.io/microservices-in-golang-part-1/
+- https://ewanvalentine.io/microservices-in-golang-part-1/
 
 # Newbie Resource Golang - 
 
