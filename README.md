@@ -31,6 +31,9 @@ https://github.com/irahardianto/service-pattern-go
 # Create Microservices in Golang
 - https://ewanvalentine.io/microservices-in-golang-part-1/
 
+# Reddit Golang Resource - 
+https://www.reddit.com/r/golang/comments/n5ppx5/some_resources_that_have_helped_me_learn_golang/?utm_medium=android_app&utm_source=share
+
 # Newbie Resource Golang - 
 
 First you should take the language tour: https://tour.golang.org/Then, you should visit:
