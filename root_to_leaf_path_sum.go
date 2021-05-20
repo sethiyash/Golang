@@ -51,6 +51,26 @@ func RootToLeafSum(node *Node, sum int) []int {
     return result
 }
 
+func RootToLeafSumWithoutReturn(node *Node, sum int, result *[]int) {
+    if node == nil {
+        return
+    } else {
+        sum += node.data
+        
+        if node.left == nil && node.right == nil {
+            *result = append(*result, sum)  //remember this to modify the passed slice 
+        }
+        
+        
+        RootToLeafSum(node.left, sum, result)
+        
+        
+        RootToLeafSum(node.right, sum, result)
+        
+    }
+    return 
+}
+
 func main() {
     
     root := newNode(1)
@@ -67,7 +87,12 @@ func main() {
     
     result := RootToLeafSum(root, 0)
     
+    result2 := make([]int, 0)
+    RootToLeafSumWithoutReturn(root, 0, result2)
+    
     fmt.Println(result)
+    
+    fmt.Println(result2)
 }
 
 
