@@ -10,7 +10,8 @@ https://github.com/irahardianto/service-pattern-go
 
 - An implementation of JSON Schema, draft v4 v6 & v7 - Go languagehttps://github.com/xeipuuv/gojsonschema
 
-
+# Popular Golang Packages one should know
+- [Golang Popular Pacakges](https://github.com/sethiyash/Golang/blob/main/blogs/popular_packages.md#golang-packages-you-should-know)
 # Golang Blogs - 
 
 - https://www.ardanlabs.com/blog/
