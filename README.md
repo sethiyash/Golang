@@ -1,7 +1,11 @@
 # Golang
-# All resources and learnings in Golang 
+## All resources and learnings in Golang 
 
-# Golang Articles  -
+### Awesome Go
+A curated list of awesome Go frameworks, libraries, and software. Inspired by awesome-python.
+Github:: https://github.com/avelino/awesome-go#contents
+
+### Golang Articles  -
 
 - https://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/
 
@@ -10,32 +14,32 @@ https://github.com/irahardianto/service-pattern-go
 
 - An implementation of JSON Schema, draft v4 v6 & v7 - Go languagehttps://github.com/xeipuuv/gojsonschema
 
-# Popular Golang Packages one should know
+### Popular Golang Packages one should know
 - [Golang Popular Pacakges](https://github.com/sethiyash/Golang/blob/main/blogs/popular_packages.md#golang-packages-you-should-know)
-# Golang Blogs - 
+### Golang Blogs - 
 
 - https://www.ardanlabs.com/blog/
 
 
-# Common Mistakes in Golang -
+### Common Mistakes in Golang -
 
 - https://github.com/golang/go/wiki/CommonMistakes#using-goroutines-on-loop-iterator-variables
 - https://gist.github.com/posener/92a55c4cd441fc5e5e85f27bca008721 Be Careful with Table Driven Tests and t.Parallel()
 - https://stackoverflow.com/questions/36167200/how-safe-are-golang-maps-for-concurrent-read-write-operations Map concurrent read write 
 
 
-# Pointer Performance Golang - 
+### Pointer Performance Golang - 
 - https://medium.com/@vCabbage/go-are-pointers-a-performance-optimization-a95840d3ef85
 - https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/
 
 
-# Create Microservices in Golang
+### Create Microservices in Golang
 - https://ewanvalentine.io/microservices-in-golang-part-1/
 
-# Reddit Golang Resource - 
+### Reddit Golang Resource - 
 https://www.reddit.com/r/golang/comments/n5ppx5/some_resources_that_have_helped_me_learn_golang/?utm_medium=android_app&utm_source=share
 
-# Newbie Resource Golang - 
+### Newbie Resource Golang - 
 
 First you should take the language tour: https://tour.golang.org/Then, you should visit:
 - https://golang.org/doc/code.html to learn how to organize your Go workspace
