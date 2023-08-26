@@ -1,6 +1,9 @@
 # Golang
 ## All resources and learnings in Golang 
 
+### Offical Blogs to read - 
+https://go.dev/blog/all
+
 ### Awesome Go
 A curated list of awesome Go frameworks, libraries, and software. Inspired by awesome-python.
 Github:: https://github.com/avelino/awesome-go#contents
