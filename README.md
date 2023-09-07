@@ -1,6 +1,50 @@
 # Golang
 ## All resources and learnings in Golang 
 
+### Golang Concurrency exercise - 
+https://github.com/loong/go-concurrency-exercises/tree/main 
+
+GO concurrency guide - 
+https://github.com/luk4z7/go-concurrency-guide
+
+Thread safety in Go - 
+https://blog.devgenius.io/thread-safety-in-go-6ea8db5bfef8 
+
+Producer Consumer Problem in Go -
+https://www.ibm.com/blog/producer-consumer-in-go/
+https://gist.github.com/JMSwag/ca81d0b58fcce8d6c2c6
+
+Dinning Philosopher Problem -
+https://www.golangprograms.com/illustration-of-the-dining-philosophers-problem-in-golang.html 
+
+Concurrent prime sieve -
+https://go.dev/play/p/9U22NfrXeq
+
+Scheduling In Go - 
+https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html
+https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html
+https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html
+
+Go concurrency examples
+https://github.com/System-Glitch/go-concurrency-examples/tree/master
+
+
+Videos: (MUST WATCH)
+Go Concurrency Patterns:
+https://www.youtube.com/watch?v=f6kdp27TYZs
+
+Concurrency is not Parallelism by Rob Pike
+https://www.youtube.com/watch?v=oV9rvDllKEg
+
+BOOKS - 
+
+- `Textbook: Introduction to Multithreaded, Distributed, and Parallel Programming (2000)` has the best and most complete teaching on the Go style of concurrent progra!ming, which is actually named Concurrent Sequential Processes. Many pther styles of concurrent programming are also explained, compared, and contrasted, both for shared memory as well as distributed memory systems.
+
+- `Textbook: The Go Programming Language` has two excellent chapters on concurrency with examples that steadily grow in complexity. It's not free, but it's well worth the price IMO as it contains useful information for all features of the language except generics.
+
+### Golang Quiz
+https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/go/go-quiz.md 
+
 ### Offical Blogs to read - 
 https://go.dev/blog/all
 
