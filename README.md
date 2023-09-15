@@ -20,7 +20,10 @@ https://www.golangprograms.com/illustration-of-the-dining-philosophers-problem-i
 Concurrent prime sieve -
 https://go.dev/play/p/9U22NfrXeq
 
-Scheduling In Go - 
+Why Go programming?
+ardanlabs.com/blog/2013/05/why-go-programming.html
+
+Scheduling In Go -    
 https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html
 https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html
 https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html

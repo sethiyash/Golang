@@ -13,3 +13,13 @@ Taken from - https://youtu.be/f6kdp27TYZs?t=866 (Go Concurrency Patterns Rob Pik
 
 #### Using Mutex Examples 
 1. Getting rid of Data race condition while doing read/write on shared data using mutex: data_race_mutex.go
+
+#### Good Reads
+Why Go Programming:
+ardanlabs.com/blog/2013/05/why-go-programming.html
+
+Scheduling in Go:
+https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html
+https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html
+https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html
+
