@@ -1,6 +1,6 @@
 # Concurrency
 
-#### Look into concurrency pattern codes in flowing order - 
+#### Look into concurrency pattern codes in following order - 
 
 Taken from - https://youtu.be/f6kdp27TYZs?t=866 (Go Concurrency Patterns Rob Pike)
 1. Generator: function that returns a channel: generator.go
