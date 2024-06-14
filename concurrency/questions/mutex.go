@@ -1,5 +1,13 @@
-// Q: What is the zero value of a sync.Mutex in Go and how does it affect its operation?
+// Q: What is a Mutex and why is it used in Go?
+// A Mutex is a synchronization primitive provided by the sync package in Go.
+// It is used to ensure that only one goroutine can access a particular section of code or data at a time, 
+// preventing race conditions and ensuring safe access to shared resources.
 
+// Q: What will happen if you forget to unlock a Mutex after locking it?
+// If you forget to unlock a Mutex after locking it, it will cause a deadlock. 
+// This means that any goroutines waiting to acquire the lock will be indefinitely blocked, potentially causing the program to hang.
+
+// Q: What is the zero value of a sync.Mutex in Go and how does it affect its operation?
 // The zero value of a sync.Mutex is an unlocked mutex. In Go, zero values are usable without initialization, 
 // which means a sync.Mutex can be used directly after declaration without explicitly initializing it. 
 // This makes Mutex integration seamless and error-free in structures.
@@ -10,7 +18,7 @@
 // Unlike a regular map with a Mutex, sync.Map optimizes read-heavy operations by reducing lock contention, 
 // even though it might perform less efficiently in scenarios with frequent writes due to its internal complexity.
 
-//Provide an example of a deadlock in Go using Mutex and explain how you would resolve it.
+//Q: Provide an example of a deadlock in Go using Mutex and explain how you would resolve it.
 
 package main
 
