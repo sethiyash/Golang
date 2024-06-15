@@ -67,8 +67,8 @@ func server() (int, error) {
 
 func main() {
 	start := time.Now()
-	res, err := server()
 	if err != nil {
+	res, err := server()
 		fmt.Println(err)
 	}
 	fmt.Println(res)
